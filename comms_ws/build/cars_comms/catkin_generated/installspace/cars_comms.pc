@@ -1,0 +1,8 @@
+prefix=/home/zhe/comms_ws/install
+
+Name: cars_comms
+Description: Description of cars_comms
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

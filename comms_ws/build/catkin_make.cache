@@ -1,0 +1,2 @@
+cars_comms
+-DCATKIN_DEVEL_PREFIX=/home/zhe/comms_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zhe/comms_ws/install -G Unix Makefiles
